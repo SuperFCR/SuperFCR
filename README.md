@@ -1,5 +1,4 @@
 ### Hey there, I'm Chaoran Feng! 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperFCR&repo=SuperFCR)](https://github.com/SuperFCR/SuperFCR)
 <br>
 [![](https://img.shields.io/badge/Homepage-blue?style=for-the-badge&logo=edge&logoColor=white)](https://www.falcary.com/)
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Thyo5v4AAAAJ&hl=en)

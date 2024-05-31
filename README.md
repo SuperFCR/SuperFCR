@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/stars/SuperFCR?style=for-the-badge&logo=github&label=Github%20Stars&labelColor=gray&color=black)](https://github.com/SuperFCR)
 
 
-Welcome to my GitHub. I am currently a master student in Computer Science👨🏼‍💻 at [Peking University](https://www.pku.edu.cn/)🚀. My research lies at the intersection of **computer vision** and **3D Reconstrution** – with a special focus on building intelligent visual systems that are continual and data-efficient. If you have any questions on my projects, please feel free to [send me an email](mailto:falcary@outlook.com)📧.
+Welcome to my GitHub. I am currently a master student in Computer Science 👨🏼‍💻 at [Peking University](https://www.pku.edu.cn/) 🚀. My research lies at the intersection of **computer vision** and **3D Reconstrution** – with a special focus on building intelligent visual systems that are continual and data-efficient. If you have any questions on my projects, please feel free to [send me an email](mailto:falcary@outlook.com) 📧.
 
 <div align="center">
 <span>  </span>
@@ -28,5 +28,3 @@ Welcome to my GitHub. I am currently a master student in Computer Science👨�
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-    
-<br>

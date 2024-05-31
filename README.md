@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/stars/SuperFCR?style=for-the-badge&logo=github&label=Github%20Stars&labelColor=gray&color=black)](https://github.com/SuperFCR)
 
 
-Welcome to my GitHub. I am currently a master student in Computer Science👨🏼‍💻 at [Peking University](https://www.pku.edu.cn/)🚀. My research lies at the intersection of **computer vision** and **3D Reconstrution** – with a special focus on building intelligent visual systems that are continual and data-efficient. If you have any questions on my projects, please feel free to [send me an email](mailto:falcary@outlook.com).
+Welcome to my GitHub. I am currently a master student in Computer Science👨🏼‍💻 at [Peking University](https://www.pku.edu.cn/)🚀. My research lies at the intersection of **computer vision** and **3D Reconstrution** – with a special focus on building intelligent visual systems that are continual and data-efficient. If you have any questions on my projects, please feel free to [send me an email](mailto:falcary@outlook.com)📧.
 
 <div align="center">
 <span>  </span>

@@ -8,9 +8,11 @@ Welcome to my GitHub. I am currently a master student in Computer Science at [Pe
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=SuperFCR&title_color=333&text_color=777&theme=radical" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperFCR&layout=compact&langs_count=8&title_color=333&text_color=777" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=SuperFCR&title_color=333&text_color=777" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperFCR&layout=compact&langs_count=8&title_color=333&text_color=777" />
 <span>  </span>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperFCR)](https://github.com/SuperFCR/github-readme-stats)
 
 **Languages and Frameworks**
 

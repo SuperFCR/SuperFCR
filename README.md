@@ -6,6 +6,11 @@
 
 Welcome to my GitHub. I am currently a master student in Computer Science at [Peking University](https://www.pku.edu.cn/). My research lies at the intersection of **computer vision** and **3D Reconstrution** – with a special focus on building intelligent visual systems that are continual and data-efficient. If you have any questions on my projects, please feel free to [send me an email](mailto:falcary@outlook.com).
 
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=SuperFCR&title_color=333&text_color=777" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperFCR&layout=compact&langs_count=8&title_color=333&text_color=777" />
+<span>  </span>
+</div>
 
 **Languages and Frameworks**
 
